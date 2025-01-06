@@ -29,7 +29,7 @@
 ## How to use:
 1. Clone this repository:
    ```bash
-   git clone https://github.com/saratamerrr/Master_Thesis.git
+   git clone https://github.com/saratamerrr/Masters_Thesis.git
    ```
 2. Create a virtual environment (optional but recommended):
    ```bash
