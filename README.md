@@ -20,9 +20,9 @@
     - **`ArticlesContainingItems.csv`**: Article and item data used for data preparation and extraction.
     - **`ISItemsandVariables.csv`**: IS items and their variables used for data preparation and extraction.
     - **`extracted_definitions.csv`**: Extracted data.
-    - **`train_split_*`**: Training data (original, fully augmented, and 75% augmented).
-    - **`test_split_*`**: Test data (original, fully augmented, and 75% augmented).
-    - **`val_split_*`**: Validation data (original, fully augmented, and 75% augmented).
+    - **`train_split_*`**: Training data (original, augmented, and 75% augmented).
+    - **`test_split_*`**: Test data (original, augmented, and 75% augmented).
+    - **`val_split_*`**: Validation data (original, augmented, and 75% augmented).
 
 - **`requirements.txt`**: Specifies all the libraries and their versions needed.
 
